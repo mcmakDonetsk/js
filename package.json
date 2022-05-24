@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "тест для работы консоли",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcmakDonetsk/js-console-git.git"
+  },
+  "keywords": [
+    "стыщду"
+  ],
+  "author": "mcmak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcmakDonetsk/js-console-git/issues"
+  },
+  "homepage": "https://github.com/mcmakDonetsk/js-console-git#readme"
+}
